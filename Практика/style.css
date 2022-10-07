@@ -1,0 +1,16 @@
+.el
+{
+transform:rotate(calc(90deg + 90deg + 90deg)); 
+animation-delay: calc (1s +15ms)
+}
+.el1
+	{
+width:calc(100% / 3);
+}
+.el3
+	{
+width:calc(100% / 3);
+}
+.module{
+	padding:calc(var(--spacing)*2);
+}
